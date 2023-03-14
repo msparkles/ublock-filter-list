@@ -6,5 +6,5 @@ e621.net###post-sections
 twitter.com##.r-lrvibr.r-bztko3.r-1ny4l3l.r-bt1l66.r-1777fci.r-1loqt21
 
 ! 2023-03-14 https://snowdin.town
-snowdin.town##.-repeat:upward(4)
+snowdin.town##.-repeat:upward(1)
 
