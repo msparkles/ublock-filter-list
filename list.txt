@@ -7,7 +7,3 @@ derpibooru.org###imagespns
 
 ! https://twitch.tv
 twitch.tv##+js(twitch-videoad)
-
-! https://bsky.app
-bsky.app##[data-testid^="feedItem"]:has-text('followed')
-bsky.app##:matches-path(/\/profile.*/) div:has(> div[dir="auto"]:has-text('Follows you'))
